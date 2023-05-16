@@ -29,9 +29,6 @@ Plot the predictions for visualization.
 
 ## PROGRAM
 ```
-Developed by: U Bhavya
-Register no.: 212220230055
-
 from tensorflow import keras
 from tensorflow.keras import layers
 from tensorflow.keras import utils
